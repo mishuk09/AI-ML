@@ -1,0 +1,1306 @@
+Sepal.Length,Sepal.Width,Petal.Length,Petal.Width,Species
+5.1,3.5,1.4,0.2,setosa
+4.9,3,1.4,0.2,setosa
+4.7,3.2,1.3,0.2,setosa
+4.6,3.1,1.5,0.2,setosa
+5,3.6,1.4,0.2,setosa
+5.4,3.9,1.7,0.4,setosa
+4.6,3.4,1.4,0.3,setosa
+5,3.4,1.5,0.2,setosa
+4.4,2.9,1.4,0.2,setosa
+4.9,3.1,1.5,0.1,setosa
+5.4,3.7,1.5,0.2,setosa
+4.8,3.4,1.6,0.2,setosa
+4.8,3,1.4,0.1,setosa
+4.3,3,1.1,0.1,setosa
+5.8,4,1.2,0.2,setosa
+5.7,4.4,1.5,0.4,setosa
+5.4,3.9,1.3,0.4,setosa
+5.1,3.5,1.4,0.3,setosa
+5.7,3.8,1.7,0.3,setosa
+5.1,3.8,1.5,0.3,setosa
+5.4,3.4,1.7,0.2,setosa
+5.1,3.7,1.5,0.4,setosa
+4.6,3.6,1,0.2,setosa
+5.1,3.3,1.7,0.5,setosa
+4.8,3.4,1.9,0.2,setosa
+5,3,1.6,0.2,setosa
+5,3.4,1.6,0.4,setosa
+5.2,3.5,1.5,0.2,setosa
+5.2,3.4,1.4,0.2,setosa
+4.7,3.2,1.6,0.2,setosa
+4.8,3.1,1.6,0.2,setosa
+5.4,3.4,1.5,0.4,setosa
+5.2,4.1,1.5,0.1,setosa
+5.5,4.2,1.4,0.2,setosa
+4.9,3.1,1.5,0.2,setosa
+5,3.2,1.2,0.2,setosa
+5.5,3.5,1.3,0.2,setosa
+4.9,3.6,1.4,0.1,setosa
+4.4,3,1.3,0.2,setosa
+5.1,3.4,1.5,0.2,setosa
+5,3.5,1.3,0.3,setosa
+4.5,2.3,1.3,0.3,setosa
+4.4,3.2,1.3,0.2,setosa
+5,3.5,1.6,0.6,setosa
+5.1,3.8,1.9,0.4,setosa
+4.8,3,1.4,0.3,setosa
+5.1,3.8,1.6,0.2,setosa
+4.6,3.2,1.4,0.2,setosa
+5.3,3.7,1.5,0.2,setosa
+5,3.3,1.4,0.2,setosa
+7,3.2,4.7,1.4,versicolor
+6.4,3.2,4.5,1.5,versicolor
+6.9,3.1,4.9,1.5,versicolor
+5.5,2.3,4,1.3,versicolor
+6.5,2.8,4.6,1.5,versicolor
+5.7,2.8,4.5,1.3,versicolor
+6.3,3.3,4.7,1.6,versicolor
+4.9,2.4,3.3,1,versicolor
+6.6,2.9,4.6,1.3,versicolor
+5.2,2.7,3.9,1.4,versicolor
+5,2,3.5,1,versicolor
+5.9,3,4.2,1.5,versicolor
+6,2.2,4,1,versicolor
+6.1,2.9,4.7,1.4,versicolor
+5.6,2.9,3.6,1.3,versicolor
+6.7,3.1,4.4,1.4,versicolor
+5.6,3,4.5,1.5,versicolor
+5.8,2.7,4.1,1,versicolor
+6.2,2.2,4.5,1.5,versicolor
+5.6,2.5,3.9,1.1,versicolor
+5.9,3.2,4.8,1.8,versicolor
+6.1,2.8,4,1.3,versicolor
+6.3,2.5,4.9,1.5,versicolor
+6.1,2.8,4.7,1.2,versicolor
+6.4,2.9,4.3,1.3,versicolor
+6.6,3,4.4,1.4,versicolor
+6.8,2.8,4.8,1.4,versicolor
+6.7,3,5,1.7,versicolor
+6,2.9,4.5,1.5,versicolor
+5.7,2.6,3.5,1,versicolor
+5.5,2.4,3.8,1.1,versicolor
+5.5,2.4,3.7,1,versicolor
+5.8,2.7,3.9,1.2,versicolor
+6,2.7,5.1,1.6,versicolor
+5.4,3,4.5,1.5,versicolor
+6,3.4,4.5,1.6,versicolor
+6.7,3.1,4.7,1.5,versicolor
+6.3,2.3,4.4,1.3,versicolor
+5.6,3,4.1,1.3,versicolor
+5.5,2.5,4,1.3,versicolor
+5.5,2.6,4.4,1.2,versicolor
+6.1,3,4.6,1.4,versicolor
+5.8,2.6,4,1.2,versicolor
+5,2.3,3.3,1,versicolor
+5.6,2.7,4.2,1.3,versicolor
+5.7,3,4.2,1.2,versicolor
+5.7,2.9,4.2,1.3,versicolor
+6.2,2.9,4.3,1.3,versicolor
+5.1,2.5,3,1.1,versicolor
+5.7,2.8,4.1,1.3,versicolor
+6.3,3.3,6,2.5,virginica
+5.8,2.7,5.1,1.9,virginica
+7.1,3,5.9,2.1,virginica
+6.3,2.9,5.6,1.8,virginica
+6.5,3,5.8,2.2,virginica
+7.6,3,6.6,2.1,virginica
+4.9,2.5,4.5,1.7,virginica
+7.3,2.9,6.3,1.8,virginica
+6.7,2.5,5.8,1.8,virginica
+7.2,3.6,6.1,2.5,virginica
+6.5,3.2,5.1,2,virginica
+6.4,2.7,5.3,1.9,virginica
+6.8,3,5.5,2.1,virginica
+5.7,2.5,5,2,virginica
+5.8,2.8,5.1,2.4,virginica
+6.4,3.2,5.3,2.3,virginica
+6.5,3,5.5,1.8,virginica
+7.7,3.8,6.7,2.2,virginica
+7.7,2.6,6.9,2.3,virginica
+6,2.2,5,1.5,virginica
+6.9,3.2,5.7,2.3,virginica
+5.6,2.8,4.9,2,virginica
+7.7,2.8,6.7,2,virginica
+6.3,2.7,4.9,1.8,virginica
+6.7,3.3,5.7,2.1,virginica
+7.2,3.2,6,1.8,virginica
+6.2,2.8,4.8,1.8,virginica
+6.1,3,4.9,1.8,virginica
+6.4,2.8,5.6,2.1,virginica
+7.2,3,5.8,1.6,virginica
+7.4,2.8,6.1,1.9,virginica
+7.9,3.8,6.4,2,virginica
+6.4,2.8,5.6,2.2,virginica
+6.3,2.8,5.1,1.5,virginica
+6.1,2.6,5.6,1.4,virginica
+7.7,3,6.1,2.3,virginica
+6.3,3.4,5.6,2.4,virginica
+6.4,3.1,5.5,1.8,virginica
+6,3,4.8,1.8,virginica
+6.9,3.1,5.4,2.1,virginica
+6.7,3.1,5.6,2.4,virginica
+6.9,3.1,5.1,2.3,virginica
+5.8,2.7,5.1,1.9,virginica
+6.8,3.2,5.9,2.3,virginica
+6.7,3.3,5.7,2.5,virginica
+6.7,3,5.2,2.3,virginica
+6.3,2.5,5,1.9,virginica
+6.5,3,5.2,2,virginica
+6.2,3.4,5.4,2.3,virginica
+5.9,3,5.1,1.8,virginica
+Sepal.Length,Sepal.Width,Petal.Length,Petal.Width,Species
+5.1,3.5,1.4,0.2,setosa
+4.9,3,1.4,0.2,setosa
+4.7,3.2,1.3,0.2,setosa
+4.6,3.1,1.5,0.2,setosa
+5,3.6,1.4,0.2,setosa
+5.4,3.9,1.7,0.4,setosa
+4.6,3.4,1.4,0.3,setosa
+5,3.4,1.5,0.2,setosa
+4.4,2.9,1.4,0.2,setosa
+4.9,3.1,1.5,0.1,setosa
+5.4,3.7,1.5,0.2,setosa
+4.8,3.4,1.6,0.2,setosa
+4.8,3,1.4,0.1,setosa
+4.3,3,1.1,0.1,setosa
+5.8,4,1.2,0.2,setosa
+5.7,4.4,1.5,0.4,setosa
+5.4,3.9,1.3,0.4,setosa
+5.1,3.5,1.4,0.3,setosa
+5.7,3.8,1.7,0.3,setosa
+5.1,3.8,1.5,0.3,setosa
+5.4,3.4,1.7,0.2,setosa
+5.1,3.7,1.5,0.4,setosa
+4.6,3.6,1,0.2,setosa
+5.1,3.3,1.7,0.5,setosa
+4.8,3.4,1.9,0.2,setosa
+5,3,1.6,0.2,setosa
+5,3.4,1.6,0.4,setosa
+5.2,3.5,1.5,0.2,setosa
+5.2,3.4,1.4,0.2,setosa
+4.7,3.2,1.6,0.2,setosa
+4.8,3.1,1.6,0.2,setosa
+5.4,3.4,1.5,0.4,setosa
+5.2,4.1,1.5,0.1,setosa
+5.5,4.2,1.4,0.2,setosa
+4.9,3.1,1.5,0.2,setosa
+5,3.2,1.2,0.2,setosa
+5.5,3.5,1.3,0.2,setosa
+4.9,3.6,1.4,0.1,setosa
+4.4,3,1.3,0.2,setosa
+5.1,3.4,1.5,0.2,setosa
+5,3.5,1.3,0.3,setosa
+4.5,2.3,1.3,0.3,setosa
+4.4,3.2,1.3,0.2,setosa
+5,3.5,1.6,0.6,setosa
+5.1,3.8,1.9,0.4,setosa
+4.8,3,1.4,0.3,setosa
+5.1,3.8,1.6,0.2,setosa
+4.6,3.2,1.4,0.2,setosa
+5.3,3.7,1.5,0.2,setosa
+5,3.3,1.4,0.2,setosa
+7,3.2,4.7,1.4,versicolor
+6.4,3.2,4.5,1.5,versicolor
+6.9,3.1,4.9,1.5,versicolor
+5.5,2.3,4,1.3,versicolor
+6.5,2.8,4.6,1.5,versicolor
+5.7,2.8,4.5,1.3,versicolor
+6.3,3.3,4.7,1.6,versicolor
+4.9,2.4,3.3,1,versicolor
+6.6,2.9,4.6,1.3,versicolor
+5.2,2.7,3.9,1.4,versicolor
+5,2,3.5,1,versicolor
+5.9,3,4.2,1.5,versicolor
+6,2.2,4,1,versicolor
+6.1,2.9,4.7,1.4,versicolor
+5.6,2.9,3.6,1.3,versicolor
+6.7,3.1,4.4,1.4,versicolor
+5.6,3,4.5,1.5,versicolor
+5.8,2.7,4.1,1,versicolor
+6.2,2.2,4.5,1.5,versicolor
+5.6,2.5,3.9,1.1,versicolor
+5.9,3.2,4.8,1.8,versicolor
+6.1,2.8,4,1.3,versicolor
+6.3,2.5,4.9,1.5,versicolor
+6.1,2.8,4.7,1.2,versicolor
+6.4,2.9,4.3,1.3,versicolor
+6.6,3,4.4,1.4,versicolor
+6.8,2.8,4.8,1.4,versicolor
+6.7,3,5,1.7,versicolor
+6,2.9,4.5,1.5,versicolor
+5.7,2.6,3.5,1,versicolor
+5.5,2.4,3.8,1.1,versicolor
+5.5,2.4,3.7,1,versicolor
+5.8,2.7,3.9,1.2,versicolor
+6,2.7,5.1,1.6,versicolor
+5.4,3,4.5,1.5,versicolor
+6,3.4,4.5,1.6,versicolor
+6.7,3.1,4.7,1.5,versicolor
+6.3,2.3,4.4,1.3,versicolor
+5.6,3,4.1,1.3,versicolor
+5.5,2.5,4,1.3,versicolor
+5.5,2.6,4.4,1.2,versicolor
+6.1,3,4.6,1.4,versicolor
+5.8,2.6,4,1.2,versicolor
+5,2.3,3.3,1,versicolor
+5.6,2.7,4.2,1.3,versicolor
+5.7,3,4.2,1.2,versicolor
+5.7,2.9,4.2,1.3,versicolor
+6.2,2.9,4.3,1.3,versicolor
+5.1,2.5,3,1.1,versicolor
+5.7,2.8,4.1,1.3,versicolor
+6.3,3.3,6,2.5,virginica
+5.8,2.7,5.1,1.9,virginica
+7.1,3,5.9,2.1,virginica
+6.3,2.9,5.6,1.8,virginica
+6.5,3,5.8,2.2,virginica
+7.6,3,6.6,2.1,virginica
+4.9,2.5,4.5,1.7,virginica
+7.3,2.9,6.3,1.8,virginica
+6.7,2.5,5.8,1.8,virginica
+7.2,3.6,6.1,2.5,virginica
+6.5,3.2,5.1,2,virginica
+6.4,2.7,5.3,1.9,virginica
+6.8,3,5.5,2.1,virginica
+5.7,2.5,5,2,virginica
+5.8,2.8,5.1,2.4,virginica
+6.4,3.2,5.3,2.3,virginica
+6.5,3,5.5,1.8,virginica
+7.7,3.8,6.7,2.2,virginica
+7.7,2.6,6.9,2.3,virginica
+6,2.2,5,1.5,virginica
+6.9,3.2,5.7,2.3,virginica
+5.6,2.8,4.9,2,virginica
+7.7,2.8,6.7,2,virginica
+6.3,2.7,4.9,1.8,virginica
+6.7,3.3,5.7,2.1,virginica
+7.2,3.2,6,1.8,virginica
+6.2,2.8,4.8,1.8,virginica
+6.1,3,4.9,1.8,virginica
+6.4,2.8,5.6,2.1,virginica
+7.2,3,5.8,1.6,virginica
+7.4,2.8,6.1,1.9,virginica
+7.9,3.8,6.4,2,virginica
+6.4,2.8,5.6,2.2,virginica
+6.3,2.8,5.1,1.5,virginica
+6.1,2.6,5.6,1.4,virginica
+7.7,3,6.1,2.3,virginica
+6.3,3.4,5.6,2.4,virginica
+6.4,3.1,5.5,1.8,virginica
+6,3,4.8,1.8,virginica
+6.9,3.1,5.4,2.1,virginica
+6.7,3.1,5.6,2.4,virginica
+6.9,3.1,5.1,2.3,virginica
+5.8,2.7,5.1,1.9,virginica
+6.8,3.2,5.9,2.3,virginica
+6.7,3.3,5.7,2.5,virginica
+6.7,3,5.2,2.3,virginica
+6.3,2.5,5,1.9,virginica
+6.5,3,5.2,2,virginica
+6.2,3.4,5.4,2.3,virginica
+5.9,3,5.1,1.8,virginica
+Sepal.Length,Sepal.Width,Petal.Length,Petal.Width,Species
+5.1,3.5,1.4,0.2,setosa
+4.9,3,1.4,0.2,setosa
+4.7,3.2,1.3,0.2,setosa
+4.6,3.1,1.5,0.2,setosa
+5,3.6,1.4,0.2,setosa
+5.4,3.9,1.7,0.4,setosa
+4.6,3.4,1.4,0.3,setosa
+5,3.4,1.5,0.2,setosa
+4.4,2.9,1.4,0.2,setosa
+4.9,3.1,1.5,0.1,setosa
+5.4,3.7,1.5,0.2,setosa
+4.8,3.4,1.6,0.2,setosa
+4.8,3,1.4,0.1,setosa
+4.3,3,1.1,0.1,setosa
+5.8,4,1.2,0.2,setosa
+5.7,4.4,1.5,0.4,setosa
+5.4,3.9,1.3,0.4,setosa
+5.1,3.5,1.4,0.3,setosa
+5.7,3.8,1.7,0.3,setosa
+5.1,3.8,1.5,0.3,setosa
+5.4,3.4,1.7,0.2,setosa
+5.1,3.7,1.5,0.4,setosa
+4.6,3.6,1,0.2,setosa
+5.1,3.3,1.7,0.5,setosa
+4.8,3.4,1.9,0.2,setosa
+5,3,1.6,0.2,setosa
+5,3.4,1.6,0.4,setosa
+5.2,3.5,1.5,0.2,setosa
+5.2,3.4,1.4,0.2,setosa
+4.7,3.2,1.6,0.2,setosa
+4.8,3.1,1.6,0.2,setosa
+5.4,3.4,1.5,0.4,setosa
+5.2,4.1,1.5,0.1,setosa
+5.5,4.2,1.4,0.2,setosa
+4.9,3.1,1.5,0.2,setosa
+5,3.2,1.2,0.2,setosa
+5.5,3.5,1.3,0.2,setosa
+4.9,3.6,1.4,0.1,setosa
+4.4,3,1.3,0.2,setosa
+5.1,3.4,1.5,0.2,setosa
+5,3.5,1.3,0.3,setosa
+4.5,2.3,1.3,0.3,setosa
+4.4,3.2,1.3,0.2,setosa
+5,3.5,1.6,0.6,setosa
+5.1,3.8,1.9,0.4,setosa
+4.8,3,1.4,0.3,setosa
+5.1,3.8,1.6,0.2,setosa
+4.6,3.2,1.4,0.2,setosa
+5.3,3.7,1.5,0.2,setosa
+5,3.3,1.4,0.2,setosa
+7,3.2,4.7,1.4,versicolor
+6.4,3.2,4.5,1.5,versicolor
+6.9,3.1,4.9,1.5,versicolor
+5.5,2.3,4,1.3,versicolor
+6.5,2.8,4.6,1.5,versicolor
+5.7,2.8,4.5,1.3,versicolor
+6.3,3.3,4.7,1.6,versicolor
+4.9,2.4,3.3,1,versicolor
+6.6,2.9,4.6,1.3,versicolor
+5.2,2.7,3.9,1.4,versicolor
+5,2,3.5,1,versicolor
+5.9,3,4.2,1.5,versicolor
+6,2.2,4,1,versicolor
+6.1,2.9,4.7,1.4,versicolor
+5.6,2.9,3.6,1.3,versicolor
+6.7,3.1,4.4,1.4,versicolor
+5.6,3,4.5,1.5,versicolor
+5.8,2.7,4.1,1,versicolor
+6.2,2.2,4.5,1.5,versicolor
+5.6,2.5,3.9,1.1,versicolor
+5.9,3.2,4.8,1.8,versicolor
+6.1,2.8,4,1.3,versicolor
+6.3,2.5,4.9,1.5,versicolor
+6.1,2.8,4.7,1.2,versicolor
+6.4,2.9,4.3,1.3,versicolor
+6.6,3,4.4,1.4,versicolor
+6.8,2.8,4.8,1.4,versicolor
+6.7,3,5,1.7,versicolor
+6,2.9,4.5,1.5,versicolor
+5.7,2.6,3.5,1,versicolor
+5.5,2.4,3.8,1.1,versicolor
+5.5,2.4,3.7,1,versicolor
+5.8,2.7,3.9,1.2,versicolor
+6,2.7,5.1,1.6,versicolor
+5.4,3,4.5,1.5,versicolor
+6,3.4,4.5,1.6,versicolor
+6.7,3.1,4.7,1.5,versicolor
+6.3,2.3,4.4,1.3,versicolor
+5.6,3,4.1,1.3,versicolor
+5.5,2.5,4,1.3,versicolor
+5.5,2.6,4.4,1.2,versicolor
+6.1,3,4.6,1.4,versicolor
+5.8,2.6,4,1.2,versicolor
+5,2.3,3.3,1,versicolor
+5.6,2.7,4.2,1.3,versicolor
+5.7,3,4.2,1.2,versicolor
+5.7,2.9,4.2,1.3,versicolor
+6.2,2.9,4.3,1.3,versicolor
+5.1,2.5,3,1.1,versicolor
+5.7,2.8,4.1,1.3,versicolor
+6.3,3.3,6,2.5,virginica
+5.8,2.7,5.1,1.9,virginica
+7.1,3,5.9,2.1,virginica
+6.3,2.9,5.6,1.8,virginica
+6.5,3,5.8,2.2,virginica
+7.6,3,6.6,2.1,virginica
+4.9,2.5,4.5,1.7,virginica
+7.3,2.9,6.3,1.8,virginica
+6.7,2.5,5.8,1.8,virginica
+7.2,3.6,6.1,2.5,virginica
+6.5,3.2,5.1,2,virginica
+6.4,2.7,5.3,1.9,virginica
+6.8,3,5.5,2.1,virginica
+5.7,2.5,5,2,virginica
+5.8,2.8,5.1,2.4,virginica
+6.4,3.2,5.3,2.3,virginica
+6.5,3,5.5,1.8,virginica
+7.7,3.8,6.7,2.2,virginica
+7.7,2.6,6.9,2.3,virginica
+6,2.2,5,1.5,virginica
+6.9,3.2,5.7,2.3,virginica
+5.6,2.8,4.9,2,virginica
+7.7,2.8,6.7,2,virginica
+6.3,2.7,4.9,1.8,virginica
+6.7,3.3,5.7,2.1,virginica
+7.2,3.2,6,1.8,virginica
+6.2,2.8,4.8,1.8,virginica
+6.1,3,4.9,1.8,virginica
+6.4,2.8,5.6,2.1,virginica
+7.2,3,5.8,1.6,virginica
+7.4,2.8,6.1,1.9,virginica
+7.9,3.8,6.4,2,virginica
+6.4,2.8,5.6,2.2,virginica
+6.3,2.8,5.1,1.5,virginica
+6.1,2.6,5.6,1.4,virginica
+7.7,3,6.1,2.3,virginica
+6.3,3.4,5.6,2.4,virginica
+6.4,3.1,5.5,1.8,virginica
+6,3,4.8,1.8,virginica
+6.9,3.1,5.4,2.1,virginica
+6.7,3.1,5.6,2.4,virginica
+6.9,3.1,5.1,2.3,virginica
+5.8,2.7,5.1,1.9,virginica
+6.8,3.2,5.9,2.3,virginica
+6.7,3.3,5.7,2.5,virginica
+6.7,3,5.2,2.3,virginica
+6.3,2.5,5,1.9,virginica
+6.5,3,5.2,2,virginica
+6.2,3.4,5.4,2.3,virginica
+5.9,3,5.1,1.8,virginica
+Sepal.Length,Sepal.Width,Petal.Length,Petal.Width,Species
+5.1,3.5,1.4,0.2,setosa
+4.9,3,1.4,0.2,setosa
+4.7,3.2,1.3,0.2,setosa
+4.6,3.1,1.5,0.2,setosa
+5,3.6,1.4,0.2,setosa
+5.4,3.9,1.7,0.4,setosa
+4.6,3.4,1.4,0.3,setosa
+5,3.4,1.5,0.2,setosa
+4.4,2.9,1.4,0.2,setosa
+4.9,3.1,1.5,0.1,setosa
+5.4,3.7,1.5,0.2,setosa
+4.8,3.4,1.6,0.2,setosa
+4.8,3,1.4,0.1,setosa
+4.3,3,1.1,0.1,setosa
+5.8,4,1.2,0.2,setosa
+5.7,4.4,1.5,0.4,setosa
+5.4,3.9,1.3,0.4,setosa
+5.1,3.5,1.4,0.3,setosa
+5.7,3.8,1.7,0.3,setosa
+5.1,3.8,1.5,0.3,setosa
+5.4,3.4,1.7,0.2,setosa
+5.1,3.7,1.5,0.4,setosa
+4.6,3.6,1,0.2,setosa
+5.1,3.3,1.7,0.5,setosa
+4.8,3.4,1.9,0.2,setosa
+5,3,1.6,0.2,setosa
+5,3.4,1.6,0.4,setosa
+5.2,3.5,1.5,0.2,setosa
+5.2,3.4,1.4,0.2,setosa
+4.7,3.2,1.6,0.2,setosa
+4.8,3.1,1.6,0.2,setosa
+5.4,3.4,1.5,0.4,setosa
+5.2,4.1,1.5,0.1,setosa
+5.5,4.2,1.4,0.2,setosa
+4.9,3.1,1.5,0.2,setosa
+5,3.2,1.2,0.2,setosa
+5.5,3.5,1.3,0.2,setosa
+4.9,3.6,1.4,0.1,setosa
+4.4,3,1.3,0.2,setosa
+5.1,3.4,1.5,0.2,setosa
+5,3.5,1.3,0.3,setosa
+4.5,2.3,1.3,0.3,setosa
+4.4,3.2,1.3,0.2,setosa
+5,3.5,1.6,0.6,setosa
+5.1,3.8,1.9,0.4,setosa
+4.8,3,1.4,0.3,setosa
+5.1,3.8,1.6,0.2,setosa
+4.6,3.2,1.4,0.2,setosa
+5.3,3.7,1.5,0.2,setosa
+5,3.3,1.4,0.2,setosa
+7,3.2,4.7,1.4,versicolor
+6.4,3.2,4.5,1.5,versicolor
+6.9,3.1,4.9,1.5,versicolor
+5.5,2.3,4,1.3,versicolor
+6.5,2.8,4.6,1.5,versicolor
+5.7,2.8,4.5,1.3,versicolor
+6.3,3.3,4.7,1.6,versicolor
+4.9,2.4,3.3,1,versicolor
+6.6,2.9,4.6,1.3,versicolor
+5.2,2.7,3.9,1.4,versicolor
+5,2,3.5,1,versicolor
+5.9,3,4.2,1.5,versicolor
+6,2.2,4,1,versicolor
+6.1,2.9,4.7,1.4,versicolor
+5.6,2.9,3.6,1.3,versicolor
+6.7,3.1,4.4,1.4,versicolor
+5.6,3,4.5,1.5,versicolor
+5.8,2.7,4.1,1,versicolor
+6.2,2.2,4.5,1.5,versicolor
+5.6,2.5,3.9,1.1,versicolor
+5.9,3.2,4.8,1.8,versicolor
+6.1,2.8,4,1.3,versicolor
+6.3,2.5,4.9,1.5,versicolor
+6.1,2.8,4.7,1.2,versicolor
+6.4,2.9,4.3,1.3,versicolor
+6.6,3,4.4,1.4,versicolor
+6.8,2.8,4.8,1.4,versicolor
+6.7,3,5,1.7,versicolor
+6,2.9,4.5,1.5,versicolor
+5.7,2.6,3.5,1,versicolor
+5.5,2.4,3.8,1.1,versicolor
+5.5,2.4,3.7,1,versicolor
+5.8,2.7,3.9,1.2,versicolor
+6,2.7,5.1,1.6,versicolor
+5.4,3,4.5,1.5,versicolor
+6,3.4,4.5,1.6,versicolor
+6.7,3.1,4.7,1.5,versicolor
+6.3,2.3,4.4,1.3,versicolor
+5.6,3,4.1,1.3,versicolor
+5.5,2.5,4,1.3,versicolor
+5.5,2.6,4.4,1.2,versicolor
+6.1,3,4.6,1.4,versicolor
+5.8,2.6,4,1.2,versicolor
+5,2.3,3.3,1,versicolor
+5.6,2.7,4.2,1.3,versicolor
+5.7,3,4.2,1.2,versicolor
+5.7,2.9,4.2,1.3,versicolor
+6.2,2.9,4.3,1.3,versicolor
+5.1,2.5,3,1.1,versicolor
+5.7,2.8,4.1,1.3,versicolor
+6.3,3.3,6,2.5,virginica
+5.8,2.7,5.1,1.9,virginica
+7.1,3,5.9,2.1,virginica
+6.3,2.9,5.6,1.8,virginica
+6.5,3,5.8,2.2,virginica
+7.6,3,6.6,2.1,virginica
+4.9,2.5,4.5,1.7,virginica
+7.3,2.9,6.3,1.8,virginica
+6.7,2.5,5.8,1.8,virginica
+7.2,3.6,6.1,2.5,virginica
+6.5,3.2,5.1,2,virginica
+6.4,2.7,5.3,1.9,virginica
+6.8,3,5.5,2.1,virginica
+5.7,2.5,5,2,virginica
+5.8,2.8,5.1,2.4,virginica
+6.4,3.2,5.3,2.3,virginica
+6.5,3,5.5,1.8,virginica
+7.7,3.8,6.7,2.2,virginica
+7.7,2.6,6.9,2.3,virginica
+6,2.2,5,1.5,virginica
+6.9,3.2,5.7,2.3,virginica
+5.6,2.8,4.9,2,virginica
+7.7,2.8,6.7,2,virginica
+6.3,2.7,4.9,1.8,virginica
+6.7,3.3,5.7,2.1,virginica
+7.2,3.2,6,1.8,virginica
+6.2,2.8,4.8,1.8,virginica
+6.1,3,4.9,1.8,virginica
+6.4,2.8,5.6,2.1,virginica
+7.2,3,5.8,1.6,virginica
+7.4,2.8,6.1,1.9,virginica
+7.9,3.8,6.4,2,virginica
+6.4,2.8,5.6,2.2,virginica
+6.3,2.8,5.1,1.5,virginica
+6.1,2.6,5.6,1.4,virginica
+7.7,3,6.1,2.3,virginica
+6.3,3.4,5.6,2.4,virginica
+6.4,3.1,5.5,1.8,virginica
+6,3,4.8,1.8,virginica
+6.9,3.1,5.4,2.1,virginica
+6.7,3.1,5.6,2.4,virginica
+6.9,3.1,5.1,2.3,virginica
+5.8,2.7,5.1,1.9,virginica
+6.8,3.2,5.9,2.3,virginica
+6.7,3.3,5.7,2.5,virginica
+6.7,3,5.2,2.3,virginica
+6.3,2.5,5,1.9,virginica
+6.5,3,5.2,2,virginica
+6.2,3.4,5.4,2.3,virginica
+5.9,3,5.1,1.8,virginica
+Sepal.Length,Sepal.Width,Petal.Length,Petal.Width,Species
+5.1,3.5,1.4,0.2,setosa
+4.9,3,1.4,0.2,setosa
+4.7,3.2,1.3,0.2,setosa
+4.6,3.1,1.5,0.2,setosa
+5,3.6,1.4,0.2,setosa
+5.4,3.9,1.7,0.4,setosa
+4.6,3.4,1.4,0.3,setosa
+5,3.4,1.5,0.2,setosa
+4.4,2.9,1.4,0.2,setosa
+4.9,3.1,1.5,0.1,setosa
+5.4,3.7,1.5,0.2,setosa
+4.8,3.4,1.6,0.2,setosa
+4.8,3,1.4,0.1,setosa
+4.3,3,1.1,0.1,setosa
+5.8,4,1.2,0.2,setosa
+5.7,4.4,1.5,0.4,setosa
+5.4,3.9,1.3,0.4,setosa
+5.1,3.5,1.4,0.3,setosa
+5.7,3.8,1.7,0.3,setosa
+5.1,3.8,1.5,0.3,setosa
+5.4,3.4,1.7,0.2,setosa
+5.1,3.7,1.5,0.4,setosa
+4.6,3.6,1,0.2,setosa
+5.1,3.3,1.7,0.5,setosa
+4.8,3.4,1.9,0.2,setosa
+5,3,1.6,0.2,setosa
+5,3.4,1.6,0.4,setosa
+5.2,3.5,1.5,0.2,setosa
+5.2,3.4,1.4,0.2,setosa
+4.7,3.2,1.6,0.2,setosa
+4.8,3.1,1.6,0.2,setosa
+5.4,3.4,1.5,0.4,setosa
+5.2,4.1,1.5,0.1,setosa
+5.5,4.2,1.4,0.2,setosa
+4.9,3.1,1.5,0.2,setosa
+5,3.2,1.2,0.2,setosa
+5.5,3.5,1.3,0.2,setosa
+4.9,3.6,1.4,0.1,setosa
+4.4,3,1.3,0.2,setosa
+5.1,3.4,1.5,0.2,setosa
+5,3.5,1.3,0.3,setosa
+4.5,2.3,1.3,0.3,setosa
+4.4,3.2,1.3,0.2,setosa
+5,3.5,1.6,0.6,setosa
+5.1,3.8,1.9,0.4,setosa
+4.8,3,1.4,0.3,setosa
+5.1,3.8,1.6,0.2,setosa
+4.6,3.2,1.4,0.2,setosa
+5.3,3.7,1.5,0.2,setosa
+5,3.3,1.4,0.2,setosa
+7,3.2,4.7,1.4,versicolor
+6.4,3.2,4.5,1.5,versicolor
+6.9,3.1,4.9,1.5,versicolor
+5.5,2.3,4,1.3,versicolor
+6.5,2.8,4.6,1.5,versicolor
+5.7,2.8,4.5,1.3,versicolor
+6.3,3.3,4.7,1.6,versicolor
+4.9,2.4,3.3,1,versicolor
+6.6,2.9,4.6,1.3,versicolor
+5.2,2.7,3.9,1.4,versicolor
+5,2,3.5,1,versicolor
+5.9,3,4.2,1.5,versicolor
+6,2.2,4,1,versicolor
+6.1,2.9,4.7,1.4,versicolor
+5.6,2.9,3.6,1.3,versicolor
+6.7,3.1,4.4,1.4,versicolor
+5.6,3,4.5,1.5,versicolor
+5.8,2.7,4.1,1,versicolor
+6.2,2.2,4.5,1.5,versicolor
+5.6,2.5,3.9,1.1,versicolor
+5.9,3.2,4.8,1.8,versicolor
+6.1,2.8,4,1.3,versicolor
+6.3,2.5,4.9,1.5,versicolor
+6.1,2.8,4.7,1.2,versicolor
+6.4,2.9,4.3,1.3,versicolor
+6.6,3,4.4,1.4,versicolor
+6.8,2.8,4.8,1.4,versicolor
+6.7,3,5,1.7,versicolor
+6,2.9,4.5,1.5,versicolor
+5.7,2.6,3.5,1,versicolor
+5.5,2.4,3.8,1.1,versicolor
+5.5,2.4,3.7,1,versicolor
+5.8,2.7,3.9,1.2,versicolor
+6,2.7,5.1,1.6,versicolor
+5.4,3,4.5,1.5,versicolor
+6,3.4,4.5,1.6,versicolor
+6.7,3.1,4.7,1.5,versicolor
+6.3,2.3,4.4,1.3,versicolor
+5.6,3,4.1,1.3,versicolor
+5.5,2.5,4,1.3,versicolor
+5.5,2.6,4.4,1.2,versicolor
+6.1,3,4.6,1.4,versicolor
+5.8,2.6,4,1.2,versicolor
+5,2.3,3.3,1,versicolor
+5.6,2.7,4.2,1.3,versicolor
+5.7,3,4.2,1.2,versicolor
+5.7,2.9,4.2,1.3,versicolor
+6.2,2.9,4.3,1.3,versicolor
+5.1,2.5,3,1.1,versicolor
+5.7,2.8,4.1,1.3,versicolor
+6.3,3.3,6,2.5,virginica
+5.8,2.7,5.1,1.9,virginica
+7.1,3,5.9,2.1,virginica
+6.3,2.9,5.6,1.8,virginica
+6.5,3,5.8,2.2,virginica
+7.6,3,6.6,2.1,virginica
+4.9,2.5,4.5,1.7,virginica
+7.3,2.9,6.3,1.8,virginica
+6.7,2.5,5.8,1.8,virginica
+7.2,3.6,6.1,2.5,virginica
+6.5,3.2,5.1,2,virginica
+6.4,2.7,5.3,1.9,virginica
+6.8,3,5.5,2.1,virginica
+5.7,2.5,5,2,virginica
+5.8,2.8,5.1,2.4,virginica
+6.4,3.2,5.3,2.3,virginica
+6.5,3,5.5,1.8,virginica
+7.7,3.8,6.7,2.2,virginica
+7.7,2.6,6.9,2.3,virginica
+6,2.2,5,1.5,virginica
+6.9,3.2,5.7,2.3,virginica
+5.6,2.8,4.9,2,virginica
+7.7,2.8,6.7,2,virginica
+6.3,2.7,4.9,1.8,virginica
+6.7,3.3,5.7,2.1,virginica
+7.2,3.2,6,1.8,virginica
+6.2,2.8,4.8,1.8,virginica
+6.1,3,4.9,1.8,virginica
+6.4,2.8,5.6,2.1,virginica
+7.2,3,5.8,1.6,virginica
+7.4,2.8,6.1,1.9,virginica
+7.9,3.8,6.4,2,virginica
+6.4,2.8,5.6,2.2,virginica
+6.3,2.8,5.1,1.5,virginica
+6.1,2.6,5.6,1.4,virginica
+7.7,3,6.1,2.3,virginica
+6.3,3.4,5.6,2.4,virginica
+6.4,3.1,5.5,1.8,virginica
+6,3,4.8,1.8,virginica
+6.9,3.1,5.4,2.1,virginica
+6.7,3.1,5.6,2.4,virginica
+6.9,3.1,5.1,2.3,virginica
+5.8,2.7,5.1,1.9,virginica
+6.8,3.2,5.9,2.3,virginica
+6.7,3.3,5.7,2.5,virginica
+6.7,3,5.2,2.3,virginica
+6.3,2.5,5,1.9,virginica
+6.5,3,5.2,2,virginica
+6.2,3.4,5.4,2.3,virginica
+5.9,3,5.1,1.8,virginica
+
+
+
+
+
+4.  Encoding
+
+data.head()
+data.columns
+data1.isna().sum()
+data1['Colour'].unique()
+
+3. Apply label encoding on categorical data. 2
+
+from sklearn.preprocessing import LabelEncoder
+label=LabelEncoder()
+data['Species']=label.fit_transform(data['Species'])
+data
+
+data1=pd.read_csv('/content/drive/MyDrive/Machine_Learning/CarSalesPreprocessingDataset.csv')
+data1
+
+
+data1.isna().sum()
+ 
+data1['Colour'].unique()
+
+from sklearn.preprocessing import OrdinalEncoder
+order=OrdinalEncoder()
+data1[['Colour']]=order.fit_transform(data1[['Colour']])
+data1
+
+
+data1['Make'].unique()
+
+from sklearn.preprocessing import OneHotEncoder
+one=OneHotEncoder()
+x=data1[['Make']]
+data1[['BMW','Honda','Nissan','Toyota','nan']]=one.fit_transform(x).toarray()
+data1
+
+
+iris.csv-10
+users.csv-11
+spambase.csv-12
+load_breast_cancer-13
+
+
+
+
+
+
+
+
+5   Simple Linear Regression
+
+
+1.Build Regression model using Scikit-Learn Library(Model 3).
+Set the 'Units' column as the input data or predictor column
+Set the 'Minutes' column as the output data
+Importing the required class -  LinearRegression
+Creating a linear regression model
+Fitting the model to the data
+Fetching intercept and coefficient
+
+
+model0=comp['Minutes'].mean()
+model0
+model1=comp['Units'].mean()
+model1
+
+model1=10+12 *comp['Units']
+model1
+
+model2=6+18 *comp['Units']
+model2
+
+
+comp['model0']=model0
+
+comp['model1']=model1
+
+comp['model2']=model2
+
+comp
+
+X=comp[['Units']]
+y=comp[['Minutes']]
+
+
+3.Creating Linear Regression model with calculated coefficient and intercept.
+
+from sklearn.linear_model import LinearRegression
+model=LinearRegression()
+model.fit(X,y)
+
+print("Intercept:",model.intercept_)
+print("Coefficients:",model.coef_)
+
+model2=4.16+15.5 *comp['Units']
+
+
+comp['model2']=model2
+
+
+4.Add the above model to the dataframe for Visualization.
+
+import matplotlib.pyplot as plt
+fig,ax=plt.subplots()
+ax.scatter(x="Units",y="Minutes",data=comp,label='actual repair time')
+ax.plot(comp['Units'],comp['model0'],color="red",label='model0')
+ax.plot(comp['Units'],comp['model1'],color="blue",label='model1')
+ax.plot(comp['Units'],comp['model2'],color="green",label='model2')
+
+
+
+
+
+6-  Multiple Linear Regression Model
+
+student.info()
+
+student.isna()
+ 
+ 
+# Get the number of rows and columns
+num_rows, num_columns = data.shape
+print("Number of rows:", num_rows)
+print("Number of columns:", num_columns)
+
+# Check for null values
+null_values = data.isnull().sum()
+print(null_values)
+
+# Fill null values with average value
+average_values = data.mean()
+data.fillna(average_values, inplace=True)
+
+# Verify if null values are filled
+null_values_after_fill = data.isnull().sum()
+print("\nNull values after filling with average value:")
+print(null_values_after_fill)
+
+
+
+student.hours=student.hours.fillna(student.hours.mean())
+
+student.isna().sum()
+
+X=student.iloc[:,:-1]
+
+y=student.iloc[:,-1]
+
+X 
+y
+
+5.Prepare model.
+
+from sklearn.linear_model import LinearRegression
+model=LinearRegression()
+model.fit(X,y)
+
+
+print("Intercept:",model.intercept_,"\nCoefficients:",model.coef_)
+
+hours=int(input("Enter study hours:"))
+age=int(input("Enter age:"))
+internet=int(input("Enter internet:"))
+
+
+
+
+
+
+
+7   Logistic Regression
+
+chd['chd'].unique()
+
+chd.info()
+
+plt.scatter("age","chd",data=chd)
+plt.xlabel("age")
+plt.ylabel("chd")
+plt.title("Age vs. Coronary Heart Disease")
+
+
+2.Importing the required class
+from sklearn.model_selection import train_test_split
+
+3.Specifying the columns as predictor and target variable
+predictors = ["age"]
+target = "chd"
+X = chd[predictors]
+y = chd[target]
+
+4.Split the data in training and test set in 70:30 ratio.
+
+X_train, X_test, y_train, y_test = train_test_split(X, y,  test_size=0.3, random_state=0)
+
+print ("Shape of X_train")
+print ("Shape of X_train" , X_train.shape)
+print ("Shape of y_train" , X_train.shape)
+print ("Shape of X_test" , X_train.shape)
+print ("Shape of X_test" , X_train.shape)
+
+
+
+
+7.built model using sklearn.linear_model.LogisticRegression class.
+
+
+from sklearn.linear_model import LogisticRegression
+model = LogisticRegression()
+model.fit(X_train,y_train)
+
+print ("Intercept:", model.intercept_, "\nCoefficients:" , model.coef)
+
+model.score(X_train , y_train)*100
+
+model.score(X_test , y_test)*100
+
+test = int(input("Enter age:"))
+data = [[test]]
+print("\nPredicted target i.e 'chd' value: " , model.predict(data))
+
+6-10.Train the model using the training data.
+Fetch the intercept and the coefficients of the model.
+Creating sample data.
+Predicting the probabilities for each of the class labels
+Evaluate the model's performance on training and test data using 'accuracy' measure.
+
+
+
+
+
+
+
+
+9  k-nearest neighbour
+
+
+
+mobile = pd.read_csv("/content/drive/MyDrive/MachineLearning/t-9/mobile.csv")
+mobile
+
+mobile.info()
+
+3.Draw scatter plot of purchased and not_purchased value with respect to Age and EstimatedSalary.
+
+import matplotlib.pyplot as plt
+%matplotlib inline
+purchased_data = mobile[["Age" , "EstimatedSalary" , "Purchased"]][mobile["Purchased"]==1]
+purchased_data
+
+not_purchased_data = mobile[["Age" , "EstimatedSalary" , "Purchased"]][mobile["Purchased"]==0]
+not_purchased_data
+
+
+
+
+4.Do Feature engineering (normalize the Age and EstimatedSalary columns)
+
+
+plt.scatter(purchased_data["Age"],purchased_data["EstimatedSalary"],c="green")
+plt.scatter(not_purchased_data["Age"],not_purchased_data["EstimatedSalary"],c="red")
+
+
+
+from sklearn .preprocessing import MinMaxScaler
+
+
+
+ 
+
+
+
+ten
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+%matplotlib inline
+import seaborn as sns
+
+11
+
+from sklearn.model_selection import  train_test_split
+import sklearn
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.tree import export_graphviz
+import graphviz
+
+12
+
+from sklearn.datasets import load_iris
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score
+from sklearn.ensemble import AdaBoostClassifier
+
+
+13
+
+#here we will use inbulit dataset from scikit learn
+from sklearn.datasets import  load_breast_cancer
+
+
+
+Create Binary Class SVM model
+Do Feature Engineering
+Create a new column in the dataframe (v_nv), that distinguishes the species - 'versicolor'(marked by 0) from rest.
+
+--v = lambda x:0 if x=="versicolor" else 1 
+data["v_nv"]=data["Species"].apply(v)
+data
+
+
+Build Model
+Visualize Model using mlxtend
+
+--sns.pairplot(data,x_vars="Petal.Length",y_vars="Petal.Width", hue="v_nv",height=5)
+
+
+
+Create Multi Class SVM model
+
+ 
+from sklearn.svm import SVC
+X=data[["Petal.Length","Petal.Width"]]
+y=data["v_nv"]
+model=SVC()
+model.fit(X,y)
+model.score(X,y)
+
+# Assuming data is your DataFrame
+# First, ensure that "Species" column is of type category or object
+data['Species'] = data['Species'].astype(str)
+# Then, replace the string values with numeric values
+data.loc[data['Species'] == 'setosa', 'Species'] = 0
+data.loc[data['Species'] == 'versicolor', 'Species'] = 1
+data.loc[data['Species'] == 'virginica', 'Species'] = 2
+# Finally, convert the column back to category type if needed
+data['Species'] = data['Species'].astype('category')
+data
+
+
+X=data[["Petal.Length","Petal.Width"]]
+y=data["Species"]
+model=SVC()
+model.fit(X,y)
+model.score(X,y)
+
+
+eleven   Decision Tree
+
+data.columns
+data['Gender'].unique()
+data['Purchased'].unique()
+
+2.Assign predictors and targets.
+a=data.columns.drop("Purchased")
+b=data['Purchased']
+
+3.Apply encoding using get_dummies()
+user_encoded = pd.get_dummies(data[a])
+print("Totle no. of predictories after encoding = " , len (user_encoded.columns))
+user_encoded
+
+4.Split the dataset into train and test data
+
+a_train,a_test,b_train,b_test = train_test_split(user_encoded, b, test_size=0.15 , random_state=0)
+# Print the shapes of the resulting sets
+print("Shape of input - training set:", a_train.shape)
+print("Shape of output - training set:", b_train.shape)
+print("Shape of input - testing set:", a_test.shape)
+print("Shape of output - testing set:", b_test.shape)
+
+
+5.Building the model using a decision tree.
+
+model = DecisionTreeClassifier(criterion="entropy" , random_state=1)
+model.fit(a_train, b_train)
+train_predictions = model.predict(a_train)
+test_presictions = model.predict(a_test)
+
+6.Draw decision tree using “export_graphviz”
+
+data = export_graphviz(model ,out_file=None , feature_names=user_encoded.columns)
+graph = graphviz.Source(data)
+graph
+
+
+7. Evaluate model performance on train and test sets
+
+model.score(a_train , b_train)*100
+model.score(a_test , b_test)*100
+
+
+
+
+
+
+
+twelve  Ensemble Methods/learning
+
+
+2.Split the data into a train and test set.
+
+#load iris dataset
+iris=load_iris()
+X,y = iris.data,iris.target
+
+#Split the dataset into tranining and testing sets
+X_train,X_test,y_train,y_test =train_test_split(X,y, test_size=0.2,random_state=42)
+
+
+
+3.Implement Bagging using Random Forest Algorithm.
+
+#create model
+# Implement Bagging using Random Forest Algorithm.
+model = RandomForestClassifier(n_estimators=10,random_state=42)
+
+model.fit(X_train,y_train)
+y_pred = model.predict(X_test)
+
+#Find accuracy
+accuracy=accuracy_score(y_test,y_pred)
+print("Accuracy:",accuracy)
+
+
+4.Implement Boosting using Adaboost Algorithm.
+
+#AdaBoost classifer with 50 week learners
+# Implement Boosting using Adaboost Algorithm.
+model1= AdaBoostClassifier(n_estimators=50,random_state=42)
+model1.fit(X_train,y_train)
+
+#make predictions on the testing set
+y_pred1 = model1.predict(X_test)
+#Calculate accuracy
+accuracy=accuracy_score(y_test,y_pred1)
+print("Accuracy:",accuracy)
+
+
+
+
+
+13 Principal Component Analysis
+
+
+2.Find mean and standard deviation.
+
+
+from sklearn.datasets import  load_breast_cancer
+cancer = load_breast_cancer(as_frame=True)
+df = cancer.frame
+print("Origninal Dataset shape :",df.shape)
+X=df[cancer['feature_names']]
+X_mean = X.mean()
+X_std = X.std()
+Z=(X-X_mean)/X_std
+c = Z.cov()
+
+4.Find covariance, eigenvalues, eigenvectors.
+
+eigenvalues,eigenvectors = np.linalg.eig(c)
+print("Eigen values:\n",eigenvalues)
+
+print('Eigen values Shape:',eigenvalues.shape)
+print('Eigen vector Shape:',eigenvectors.shape)
+
+idx= eigenvalues.argsort()[::-1]
+
+eigenvalues = eigenvalues[idx]
+
+eigenvectors = eigenvectors[:,idx]
+
+n_components=5
+
+u = eigenvectors[:,:n_components]
+pca_component = pd.DataFrame(u, index = cancer['feature_names'],columns=['PC1','PC2','PC3','PC4','PC5'])
+
+
+5.Visualize  correlation using heat map.
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+plt.figure(figsize=(5,7))
+sns.heatmap(pca_component)
+plt.title('PCA Components')
+plt.show
+
+
+
+6.Read the dataset “winequality-red.csv” from kaggle.com
+
+df1.head()
+df1.isnull().sum()
+df1.info()
+
+7.Split the dataset into input and output.
+X=df.iloc[:,:-1].values
+y=df.iloc[:,-1].values
+
+
+8.Split the dataset into training and test.
+
+from sklearn.model_selection import train_test_split
+X_train,X_test,y_train,y_test =train_test_split(X,y, test_size=0.2,random_state=0)
+
+9.Apply StandardScaler.
+
+#Features scaling
+from sklearn.preprocessing import StandardScaler
+scaler = StandardScaler()
+X_train = scaler.fit_transform(X_train)
+X_test = scaler.transform(X_test)
+
+X_train.shape
+
+10.Apply PCA with n_components=2
+
+
+#Apply PCA
+from sklearn.decomposition import PCA
+pca = PCA(n_components=2)
+X_train = pca.fit_transform(X_train)
+
+X_train.shape
+
+11.Implement logistic regression for classification.
+
+from sklearn.linear_model import LogisticRegression
+model=LogisticRegression(random_state=0)
+model.fit(X_train,y_train)
+
+from sklearn.metrics import confusion_matrix , accuracy_score
+y_pred = model.predict(X_test)
+
+matrix = confusion_matrix(y_test,y_pred)
+print(matrix)
+
+12.Print classification report.
+
+print("Accuray:", accuracy_score(y_test,y_pred)*100)
+
+from sklearn.metrics import classification_report
+print(classification_report(y_test,y_pred))
